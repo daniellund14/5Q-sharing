@@ -1,9 +1,7 @@
 title: Das Keyboard 5Q Extras Repo
 author: Daniel Lund
-email: your-email@domain.com
+email: daniel.lund14@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a base site being set up for the long awaited 5Q. 
-  Please submit your email if you are interested in joining the slack channel
-  to collaborate and share ideas.  
+  Please submit your email if you are interested in joining the slack channel, and I will add you
 
 theme: jekyll-theme-slate
